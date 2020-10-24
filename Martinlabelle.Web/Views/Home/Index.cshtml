@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Acceuil";
+}
+
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4">Bienvenue</h1>
+        <p class="lead">Je m'appelle Martin Labelle. Je suis programmeur-analyste, conjoint et papa.</p>
+        <hr class="my-4">
+        <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+        @*<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>*@
+    </div>
+</div>
+
+
+<div class="list-group">
+    @Html.ActionLink("Acceuil", "Index", "Home", new { @class = "ist-group-item list-group-item-action active" }, null)
+
+    @Html.ActionLink("Curriculum vitae", "Index", "CV", new { @class = "list-group-item list-group-item-action" }, null)
+    <a href="https://www.linkedin.com/in/martinlabelleprogrammeur/" class="list-group-item list-group-item-action">
+        <img src="~/img/LI-In-Bug.png" alt="Linked In" width="36" />
+    </a>
+    <a href="https://www.facebook.com/martinlabelle/" class="list-group-item list-group-item-action">
+        <img src="~/img/f_logo_RGB-Blue_72.png" width="36" alt="Facebook" />
+    </a>
+    @*<a href="#" class="list-group-item list-group-item-action">Porta ac consectetur ac</a>
+    <a href="#" class="list-group-item list-group-item-action disabled" tabindex="-1" aria-disabled="true">Vestibulum at eros</a>*@
+</div>
