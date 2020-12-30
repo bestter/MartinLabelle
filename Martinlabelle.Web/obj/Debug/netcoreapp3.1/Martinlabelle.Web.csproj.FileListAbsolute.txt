@@ -1,6 +1,5 @@
 C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\bin\Debug\netcoreapp3.1\Martinlabelle.Web.exe
 C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\obj\Debug\netcoreapp3.1\Martinlabelle.Web.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\obj\Debug\netcoreapp3.1\Martinlabelle.Web.AssemblyInfo.cs
@@ -112,4 +111,4 @@ C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\obj\Debug\netcoreapp3
 C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\obj\Debug\netcoreapp3.1\Martinlabelle.Web.pdb
 C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\obj\Debug\netcoreapp3.1\Martinlabelle.Web.genruntimeconfig.cache
 C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\obj\Debug\netcoreapp3.1\Razor\Views\CV\Index.cshtml.g.cs
-C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\obj\Debug\netcoreapp3.1\Martinlabelle.Web.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MartinLabelle\Martinlabelle.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\Martinlabelle.Web.styles.css

@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Acceuil";
+    ViewData["Title"] = "Accueil";
 }
 
 <div class="jumbotron jumbotron-fluid">
@@ -14,9 +14,9 @@
 
 
 <div class="list-group">
-    @Html.ActionLink("Acceuil", "Index", "Home", new { @class = "ist-group-item list-group-item-action active" }, null)
+    @Html.ActionLink("Acceuil", "Index", "Home", null,  new { @class = "ist-group-item list-group-item-action active" })
 
-    @Html.ActionLink("Curriculum vitae", "Index", "CV", new { @class = "list-group-item list-group-item-action" }, null)
+    @Html.ActionLink("Curriculum vitae", "Index", "CV", null,  new { @class = "list-group-item list-group-item-action" })
     <a href="https://www.linkedin.com/in/martinlabelleprogrammeur/" class="list-group-item list-group-item-action">
         <img src="~/img/LI-In-Bug.png" alt="Linked In" width="36" />
     </a>
